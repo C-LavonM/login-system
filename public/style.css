@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:ital,wght@1,500&family=Macondo&family=Space+Mono&display=swap');
+
+body{
+    font-family:'Dancing Script', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Macondo', cursive;
+    font-family: 'Space Mono', monospace;
+    background-image: url('/public/assets/istockphoto-1182650732-170667a.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    
+}
+
+.center-div {
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+    padding:.4em 2em;
+}
+
+form{
+    padding: 0 3em;
+}
+
+#login .title > span{
+    font-size:.8em;
+}
+
+
+
+
+
