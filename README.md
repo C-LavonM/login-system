@@ -2,7 +2,7 @@
 
 ## Created a log in website 
 
-![photo](istockphoto-1182650732-170667a.jpg)
+![photo](/public/assets/istockphoto-1182650732-170667a.jpg)
 
 
 
